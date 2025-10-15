@@ -3,6 +3,9 @@
 ## Full-stack application with React front-end, Spring Boot backend with H2 database (in-memory)
 - Make sure both front end and back end are running, and make sure localhost:3000 and localhost:8080 aren’t being used
 
+## React/Next.js Front end:
+https://github.com/winstonl4m/CasinoGameNext
+
 ## Java Back end:
 - Used https://start.spring.io/ to create a Spring Boot project with maven
 - H2 in-memory database to store Games, Players
