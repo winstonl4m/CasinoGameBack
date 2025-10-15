@@ -1,13 +1,13 @@
-Mino Casino Assessment Project:
+## Mino Casino Assessment Project:
 
-Full-stack application with React front-end, Spring Boot backend with H2 database (in-memory)
-Make sure both front end and back end are running, and make sure localhost:3000 and localhost:8080 aren’t being used
+## Full-stack application with React front-end, Spring Boot backend with H2 database (in-memory)
+- Make sure both front end and back end are running, and make sure localhost:3000 and localhost:8080 aren’t being used
 
-Java Back end:
-Used https://start.spring.io/ to create a Spring Boot project with maven
-H2 in-memory database to store Games, Players
+## Java Back end:
+- Used https://start.spring.io/ to create a Spring Boot project with maven
+- H2 in-memory database to store Games, Players
 
-Back end API demo video:
+## Back end API demo video:
 https://www.loom.com/share/95adfe69393f42e9b6f0eb660e2a303f?sid=8e27eb69-89f2-4f41-9f55-d4ffd56c5215 
 
 ## Features
@@ -24,13 +24,13 @@ https://www.loom.com/share/95adfe69393f42e9b6f0eb660e2a303f?sid=8e27eb69-89f2-4f
 - Java 17 or higher
 - Maven 3.6+
 
-How to Run
-Clone the repository:
-https://github.com/winstonl4m/CasinoGameBack.git 
-Cd into application folder
-Run mvn spring-boot:run
-Access the application at `http://localhost:8080`
-If localhost:8080/h2-console isn’t populated with the Games table, then copy & paste the schema.sql file into the h2 console, and then copy & paste the data.sql file 
+## How to Run
+- Clone the repository:
+- https://github.com/winstonl4m/CasinoGameBack.git 
+- Cd into application folder
+- Run mvn spring-boot:run
+- Access the application at `http://localhost:8080`
+- If localhost:8080/h2-console isn’t populated with the Games table, then copy & paste the schema.sql file into the h2 console, and then copy & paste the data.sql file 
 
 ## API Endpoints
 
